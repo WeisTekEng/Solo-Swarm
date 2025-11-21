@@ -1,6 +1,9 @@
 # Solo-Swarm
 A Lottery ticket swarm miner for the ESP32 S3
-Each ESP32 S3 SuperMini is a part of the swarm
+Each ESP32 S3 SuperMini is a part of the swarm.
+
+Use the Solo Swarm Dashboard to monitor the swarm ( cluster )
+https://github.com/WeisTekEng/Solo-Swarm-Dashboard
 
 ```
 **For each board:**
@@ -23,12 +26,12 @@ Each ESP32 S3 SuperMini is a part of the swarm
 
 ## **Expected Performance:**
 
-S3-1:  ~28 KH/s
-S3-2:  ~28 KH/s  
-S3-3:  ~28 KH/s
-S3-4:  ~28 KH/s
-S3-5:  ~28 KH/s
-Core2: ~24 KH/s
+S3-1:  ~30+ KH/s
+S3-2:  ~30+ KH/s  
+S3-3:  ~30+ KH/s
+S3-4:  ~30+ KH/s
+S3-5:  ~30+ KH/s
+Core2: ~30+ KH/s
 ───────────────
-Total: ~164 KH/s (6.9x single Core2!)
+Total: ~210 KH/s
 ```
